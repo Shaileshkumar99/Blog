@@ -7,15 +7,7 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
 $ npm run start
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
 ```
 
 ## Swagger Docs
@@ -24,4 +16,10 @@ $ npm run test
 $ npm run start
 
 GET hostname:port/docs (Browser)
+```
+
+## Unit Test
+
+```bash
+$ npm run test
 ```
